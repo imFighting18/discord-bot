@@ -6,11 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imFighting18/discord-bot.git"
+  },
   "author": "imFighting",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imFighting18/discord-bot/issues"
+  },
+  "homepage": "https://github.com/imFighting18/discord-bot#readme",
   "dependencies": {
-    "discord.js": "^13.6.0",
-    "dotenv": "^14.3.2"
+    "discord.js": "^12.2.0"
   }
 }
